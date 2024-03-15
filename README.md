@@ -15,13 +15,12 @@
                      
 </div>
 
-<h3>Hobbies</h3>
+## Hobbies
+
 Gosto de desenhar, faço artes digitais e esculturas, também arrisco nas animações.
 No meu tempo livre, gosto de jogar, jogo de tudo! Geralmente lol.
-  
-  ##
-
-  <h4>Para conhecer mais sobre mim e meu trabalho, visiste minhas outras redes!</h2> 
+##
+### Para conhecer mais sobre mim e meu trabalho, visiste minhas outras redes!
  
 <div> 
   <a href="https://www.linkedin.com/in/sabrinemarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
