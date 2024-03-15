@@ -1,4 +1,8 @@
 ## Sabrine Marques | Desenvolvedora de Software.
+- Desenvolvimento Frontend
+- Desenvolvimento Backend 
+- Analista de Sistemas 
+- QA nas horas vagas 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -12,6 +16,8 @@
 </div>
   
   ##
+
+  <h4>Para conhecer mais sobre mim e meu trabalho, visiste minhas outras redes!</h2> 
  
 <div> 
   <a href="https://www.linkedin.com/in/sabrinemarques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
