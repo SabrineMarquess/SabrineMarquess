@@ -15,11 +15,6 @@
                      
 </div>
 
-## Hobbies
-
-Gosto de desenhar, faço artes digitais e esculturas, também arrisco nas animações.
-No meu tempo livre, gosto de jogar, jogo de tudo! Geralmente lol.
-##
 ### Para conhecer mais sobre mim e meu trabalho, visiste minhas outras redes!
  
 <div> 
