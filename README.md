@@ -1,4 +1,4 @@
-## Sabrine Marques | Desenvolvedora de Software.
+## Sabrine Marques | Desenvolvedora de Software | Desenvolvedora Web | Analista de Sistemas.
 - Desenvolvimento Frontend
 - Desenvolvimento Backend 
 - Analista de Sistemas 
