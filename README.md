@@ -8,20 +8,25 @@
 ---
 
 <h4>Tecnologias que já experienciei 💻</h4>
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="Js" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
   <img align="center" alt="Ts" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg">
   <img align="center" alt="HTML" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
   <img align="center" alt="CSS" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
   <img align="center" alt="Vue" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" />
-  <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
+ 
+                     
+</div>
+<div style="display: inline_block">
+  <br>
+ <img align="center" alt="Java" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg" />
   <img align="center" alt="Spring" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" />
   <img align="center" alt="Spring" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" />
   <img align="center" alt="Spring" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" />
   <img align="center" alt="Spring" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" />
-                     
 </div>
-
+<br>
 <h4>Estudando no momento 📖 </h4>
 
 - C# 
